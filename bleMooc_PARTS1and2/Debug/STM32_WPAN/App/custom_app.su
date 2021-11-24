@@ -1,0 +1,5 @@
+custom_app.c:90:6:Custom_STM_App_Notification	16	static
+custom_app.c:138:6:Custom_APP_Notification	16	static
+custom_app.c:175:6:Custom_APP_Init	4	static
+custom_app.c:194:6:Custom_Button_c_Update_Char	8	static
+custom_app.c:203:6:Custom_Button_c_Send_Notification	8	static
