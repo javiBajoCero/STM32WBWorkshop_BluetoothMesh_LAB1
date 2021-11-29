@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DevicesDiscovered.qml</file>
+        <file>SimpleButton.qml</file>
+        <file>DeviceButton.qml</file>
+        <file>ServiceButton.qml</file>
+        <file>CharacteristicButton.qml</file>
+    </qresource>
+</RCC>
